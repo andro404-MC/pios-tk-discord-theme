@@ -1,1 +1,1 @@
-### PIOS Tokyo Night Discord theme
+# PIOS Tokyo Night Discord theme
