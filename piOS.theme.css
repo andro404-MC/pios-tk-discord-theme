@@ -14,27 +14,27 @@
 
 /* See https://github.com/Saltssaumure/pios-discord-theme#customisation for customisation settings. */
 :root {
-    --pios-glow-hue:        180;
-    --pios-glow-intensity:  1;
-    --pios-spacing:         1;
-    --pios-accent-hue:      0;
-    --pios-title-text:      "piOS v2.1.01p";
+  --pios-glow-hue: 180;
+  --pios-glow-intensity: 0.5;
+  --pios-spacing: 1;
+  --pios-accent-hue: 210;
+  --pios-title-text: "piOS v2.1.01p";
 
-    --crt-stripe:   block;
-    --crt-scanline: none;   /* ⛐ This effect is performance-intensive. */
-    --crt-flicker:  none;   /* ⚠ This is a fast flickering effect and may not be suitable for those with photosensitive epilepsy. */
+  --crt-stripe: none;
+  --crt-scanline: none; /* ⛐ This effect is performance-intensive. */
+  --crt-flicker: none; /* ⚠ This is a fast flickering effect and may not be suitable for those with photosensitive epilepsy. */
 }
 
 .theme-dark {
-    --pios-background-color:    #000000;
-    --pios-bright-color:        #FFFFFF;
-    --pios-middle-color:        #D3D3D3;
-    --pios-dim-color:           #808080;
+  --pios-background-color: #191a25;
+  --pios-bright-color: #ffffff;
+  --pios-middle-color: #d3d3d3;
+  --pios-dim-color: #808080;
 }
 
 .theme-light {
-    --pios-background-color:    #FFFFFF;
-    --pios-bright-color:        #000000;
-    --pios-middle-color:        #696969;
-    --pios-dim-color:           #A9A9A9;
+  --pios-background-color: #ffffff;
+  --pios-bright-color: #000000;
+  --pios-middle-color: #696969;
+  --pios-dim-color: #a9a9a9;
 }
